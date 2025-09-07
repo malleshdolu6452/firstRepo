@@ -1,1 +1,3 @@
-From August 12, 2021, Github has disabled authentication of git clone, git push and git pull commands with password. You need to create.
+From August 12, 2021, Github has disabled authentication of git clone, git push and git pull commands with password.
+You need to create.
+You need to create a personal access token and use it for git commands instead of password.
